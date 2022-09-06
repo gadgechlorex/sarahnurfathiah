@@ -2,4 +2,4 @@
 
 Personal portfolio created using HTML and CSS for internship project
 
-![](mygif.gif)
+![Alt Text](mygif1.gif)
